@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use geolm in your work, please cite it as below."
+title: "geolm: narrow-task geometric language models"
+authors:
+  - family-names: "Birkin"
+    given-names: "Max"
+version: 0.1.0
+date-released: 2026-07-08
+license: MIT
